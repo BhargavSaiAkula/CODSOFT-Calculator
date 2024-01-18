@@ -1,3 +1,16 @@
 body{
     background-color: aqua;
 }
+#box {
+    margin: auto;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: azure;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    color: red;
+}
